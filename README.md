@@ -1,9 +1,9 @@
 <h1 align="center">Bruh</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"/>
 </p>
 <h3 align="center">Aspiring Software Engineer | Web Developer</h3>
 
