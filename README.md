@@ -46,10 +46,9 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hgkua5209&show_icons=true)
 
 ---
 
 ## 📫 Contact
-- 📧 Email: your_email@example.com
-- 💼 LinkedIn: linkedin.com/in/yourname
+- 📧 Email: hadiffikrifirdaus@gmail.com
