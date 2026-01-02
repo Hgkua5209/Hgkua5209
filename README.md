@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Hadiffikri 👋
 
-<!--
-**Hgkua5209/Hgkua5209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science / IT Student  
+💻 Aspiring Software Developer  
+📍 Malaysia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about **web development & system analysis**
+- Experienced with **Laravel, Django, Java, UML, Linux**
+- Interested in **full-stack development & software engineering**
+- Currently working on **academic & personal projects**
+
+---
+
+## 🛠️ Tech Stack
+**Languages**
+- PHP, Java, Python, JavaScript
+
+**Frameworks & Tools**
+- Laravel, Django
+- MySQL, PostgreSQL
+- Git & GitHub
+- Linux (Fedora)
+- UML (Use Case, Activity, Sequence Diagrams)
+
+---
+
+## 📂 Featured Projects
+### 🔹 RentHouse System (Django)
+- Tenant & landlord dashboards
+- Booking, payments & PDF receipts
+- Role-based authentication
+
+### 🔹 System Analysis & Design Project
+- Full SRS documentation
+- UML diagrams (Use Case, Class, Sequence)
+- Database ERD & architecture design
+
+### 🔹 Java GUI Student Result System
+- Input validation
+- Final grade calculation
+- Receipt-style result summary
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact
+- 📧 Email: your_email@example.com
+- 💼 LinkedIn: linkedin.com/in/yourname
