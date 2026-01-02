@@ -73,6 +73,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hgkua5209&theme=tokyonight&row=1&column=6"/>
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hgkua5209&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hgkua5209&icon=3&color=8)](https://visitcount.itsvg.in)
+
 ---
 
 ## 📫 Connect With Me
