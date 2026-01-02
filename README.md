@@ -23,6 +23,10 @@
 
 ---
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadiffikrifirdaus@gmail.com) 
+
+
 ## 🧰 Tech Stack
 
 ### 🚀 Languages
@@ -55,11 +59,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hgkua5209&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hgkua5209&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hgkua5209&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -85,10 +84,3 @@
 [![](https://visitcount.itsvg.in/api?id=Hgkua5209&icon=3&color=8)](https://visitcount.itsvg.in)
 
 ---
-
-## 📫 Connect With Me
-<p>
-  <a href="mailto:hadiffikrifirdaus@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
