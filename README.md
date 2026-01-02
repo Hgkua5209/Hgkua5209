@@ -1,6 +1,10 @@
 <h1 align="center">Bruh</h1>
-<img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="150"/>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3YwY3RrNHQ4eXNjdTF6ZHFuZWV0MW82Ymk4MmEzeWgxM3V0cDVpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif" width="150"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
+</p>
 <h3 align="center">Aspiring Software Engineer | Web Developer</h3>
 
 <p align="center">
